@@ -1,0 +1,23 @@
+[
+  {
+    "username": "aa",
+    "password": "aa",
+    "fullname": "aa",
+    "isAdmin": true,
+    "_id": "0W1nbY"
+  },
+  {
+    "username": "tal peretz",
+    "password": "123456",
+    "fullname": "tal peretz",
+    "isAdmin": false,
+    "_id": "LiH8b4"
+  },
+  {
+    "username": "ta",
+    "password": "ta",
+    "fullname": "ta",
+    "isAdmin": false,
+    "_id": "zC1TFX"
+  }
+]
